@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+.header p {
+    font-size: 16px;
+    color: gray;
+}
+.section {
+    padding: 10px 0;
+}
+.section h2 {
+    font-size: 18px;
+    color: #35424a;
+    border-bottom: 2px solid #009688;
+    padding-bottom: 5px;
+}
+
+.education, .experience {
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+}
